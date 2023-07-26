@@ -8,7 +8,7 @@ WORKDIR /app
 COPY target/*.jar app.jar
 
 # Expose the port on which the Spring Boot application will run (change this to your application's port)
-EXPOSE 8080
+EXPOSE 80
 
 # Set environment variables for Spring Boot application (if required)
 # ENV SPRING_PROFILES_ACTIVE=production
