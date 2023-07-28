@@ -1,3 +1,10 @@
+# Diagram
+
+![Diagrama de la aplicacion](images/devsu.png)
+
+
+
+
 # Demo Devops Java
 
 This is a simple application to be used in the technical test of DevOps.
