@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: devops-app
-          image: 756692836859.dkr.ecr.us-east-1.amazonaws.com/devops-ecr-repo:latest
+          image: 524183713945.dkr.ecr.us-east-1.amazonaws.com/devops-ecr-repo:latest
           ports:
             - containerPort: 80
 ---
